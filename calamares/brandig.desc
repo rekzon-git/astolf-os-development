@@ -10,8 +10,8 @@ versionedName: "AstolfOs 1.0 beta"
 shortVersionedName: "AstolfOs 1.0"
 sidebar: "Instalador de AstolfOs"
 images:
-productLogo: "distro-logo.png  "
-productIcon: "distro-logo.png"
+productLogo: "logo-1.png  "
+productIcon: "logo-1.png"
 productWelcome: "welcome.png"
 slideshow: "show.qml"
 style:
