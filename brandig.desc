@@ -1,0 +1,20 @@
+componentName: default
+welcomeStyleCalamares: false
+welcomeExpandingLogo: true
+strings:
+productName: "AstolfOs"
+shortProductName: "MiDistro"
+version: "1.0 LTS"
+shortVersion: "1.0"
+versionedName: "AstolfOs 1.0 beta"
+shortVersionedName: "AstolfOs 1.0"
+sidebar: "Instalador de AstolfOs"
+images:
+productLogo: "distro-logo.png  "
+productIcon: "distro-logo.png"
+productWelcome: "welcome.png"
+slideshow: "show.qml"
+style:
+SidebarBackground: "#0f172a"
+SidebarText: "#ffffff"
+SidebarTextSelect: "#38bdf8"
