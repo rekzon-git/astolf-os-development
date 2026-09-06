@@ -19,7 +19,7 @@ calamares
 # Sistema de Archivos y Utilidades
 mtools
 dosfstools
-neofetch
+fastfetch
 vlc
 flatpak
 # Aplicaciones flatpak( Zen browser)
