@@ -1,0 +1,27 @@
+# Servidor Gráfico e Infraestructura Base
+Xorg
+xf86-video-fbdev
+mesa
+dbus
+elogind
+# Entorno Gráfico Minimalista (Openbox + Utilidades)
+openbox
+obconf
+tint2
+jgmenu
+feh
+picom
+thunar
+# Pantalla de Iniciar Sesión e Instalador
+lightdm
+lightdm-gtk-greeter
+calamares
+# Sistema de Archivos y Utilidades
+mtools
+dosfstools
+neofetch
+vlc
+flatpak
+# Aplicaciones flatpak( Zen browser)
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+flatpak install -y flathub app.zen_browser.zen
